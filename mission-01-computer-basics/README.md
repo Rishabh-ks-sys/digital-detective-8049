@@ -1,23 +1,28 @@
 
 # Mission 1 — Know Your Computer
 
-## Task 1.1 — IPOS Cycle
+## 1. Task / Objective
 
-### Activity: Typing and Saving a Document
+The objective of this mission was to understand how a computer receives input, processes information, produces output and stores results. I also learned to identify hardware, software and computer-based systems used in everyday life.
 
-| Stage | What happens in my example? | Possible hardware / component |
+## 2. Work Completed
+
+### Task 1.1 — Trace One Activity Using IPOS
+
+**Activity: Typing and Saving a Document**
+
+| Stage | What happens in my example? | Hardware / Component |
 |---|---|---|
 | Input | I type text using the keyboard. | Keyboard |
 | Processing | The computer processes the keystrokes and converts them into text. | CPU and RAM |
 | Output | The typed text appears on the screen. | Monitor |
 | Storage | I save the document so I can access it later. | SSD |
 
-### Explanation
+**Explanation:**
 
 First, I enter text using the keyboard. The CPU processes the input with the help of memory. The processed text is displayed on the monitor. Finally, I save the document on the SSD for future use.
 
-
-## Task 1.2 — Identify Hardware and Software
+### Task 1.2 — Identify Hardware and Software
 
 | Item / Software Name | Hardware or Software? | Software Type | Purpose |
 |---|---|---|---|
@@ -30,10 +35,7 @@ First, I enter text using the keyboard. The CPU processes the input with the hel
 | VS Code | Software | Application Software | Used to write and edit code. |
 | Antivirus | Software | Utility Software | Helps protect the computer from malware. |
 
-
-
-
-## Task 1.3 — Computer Systems Around You
+### Task 1.3 — Computer Systems Around You
 
 | System | Main Purpose | One Input | One Output |
 |---|---|---|---|
@@ -41,29 +43,47 @@ First, I enter text using the keyboard. The CPU processes the input with the hel
 | Smart TV | Provides entertainment through digital content. | Remote control | Video on screen |
 | Traffic Signal | Controls the movement of vehicles on roads. | Sensor input | Traffic lights |
 
-### Conclusion
+## 3. Commands / Tools Used
 
-Computer-based systems are used in everyday life to make tasks easier, faster and more efficient. They receive input, process information and produce output.
+| Command / Tool | Purpose |
+|---|---|
+| VS Code | Used to create and edit the README file. |
+| Markdown | Used to format headings, tables and lists. |
+| Git | Used to track and manage project changes. |
+| GitHub | Used to upload and store the project online. |
+| git status | Used to check the status of project files. |
+| git add | Used to stage Mission 1 files. |
+| git commit | Used to save changes with a meaningful message. |
+| git push | Used to upload committed changes to GitHub. |
 
+## 4. My Understanding
 
+I learned that the IPOS cycle describes how a computer works by receiving input, processing data, producing output and storing information.
 
+I understood the difference between hardware and software. Hardware refers to the physical components of a computer, while software refers to the programs and instructions that run on it.
 
-## Mission 1 — Summary
+I also learned that computer-based systems such as ATMs, smart TVs and traffic signals are useful in everyday life.
 
-### What I Learned
-- How the IPOS cycle works.
-- The difference between hardware and software.
-- How computer-based systems are used in everyday life.
+## 5. Difficulties Faced
 
-### Tools Used
-- MacBook
-- VS Code
-- Markdown
+Initially, understanding the difference between operating system software, application software and utility software was confusing.
 
-### Difficulties Faced
-Understanding the different stages of IPOS and classifying software into operating system, application and utility software helped me improve my understanding of computer systems.
+## 6. How I Resolved Them
 
-### Completion Status
-All three tasks of Mission 1 have been completed.
+I understood the purpose of each software category and used practical examples to classify them correctly.
+
+## 7. Evidence / Files
+
+- README.md
+- IPOS activity table
+- Hardware and software classification table
+- Everyday computer systems table
+
+## 8. Commit Details
+
+**Commit message:** Complete Mission 1 computer basics
+
+The Mission 1 files were committed and pushed successfully to the GitHub repository.
+
 
 
