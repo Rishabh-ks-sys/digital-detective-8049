@@ -21,19 +21,29 @@ This repository contains my work for the Digital Detective assignment. It covers
 
 - Python 3.9.6
 - Git 2.55.0
+- Terminal
+- Visual Studio Code
+- GitHub
+
+## Number Converter
+
+The number converter converts decimal numbers into binary and hexadecimal formats.
+
+To run it:
+
+```bash
+python3 mission-05-numbers-data/number_converter.py
+```
+
+Enter a decimal number when prompted.
 
 ## Completion Summary
 
-Each mission will be completed separately, documented in its respective folder and committed individually using Git.
+All nine missions are documented in their respective folders. The repository demonstrates my learning through practical exercises, terminal commands, Python programs and Git version control.
 
 ## Evidence
 
-Screenshots and selected outputs will be stored in the evidence folder.
-
----
-
-**Project:** The Digital Detective  
-**Assignment:** Diwali Independent Learning Assignment
+Screenshots and selected outputs are stored in the `evidence` folder.
 
 ## My Learning
 
@@ -45,3 +55,9 @@ During the Digital Detective assignment, I learned:
 - How to convert decimal, binary and hexadecimal numbers.
 - How Git tracks changes and GitHub hosts repositories for collaboration.
 - The importance of documenting work and using version control.
+
+---
+
+**Project:** The Digital Detective
+
+**Assignment:** Diwali Independent Learning Assignment
