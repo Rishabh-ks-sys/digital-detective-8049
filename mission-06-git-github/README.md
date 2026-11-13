@@ -77,17 +77,10 @@ Git tracks changes in files and helps maintain a history of a project. GitHub ho
 - GitHub branch `update-about`.
 - GitHub Pull Request.
 
-## 8. Commit Details
+## 8. Pull Request Status
 
-[Add the commit message and Pull Request link after completing the work.]
+- PR number: #1
+- Status: Open (not merged)
+- Base branch: master
+- Compare branch: update-about
 
-## My Learning
-
-During the Digital Detective assignment, I learned:
-
-- How to use terminal commands to navigate folders and manage files.
-- How operating systems manage processes, memory, files and devices.
-- How to write and run Python programs.
-- How to convert decimal, binary and hexadecimal numbers.
-- How Git tracks changes and GitHub hosts repositories for collaboration.
-- The importance of documenting work and using version control.
