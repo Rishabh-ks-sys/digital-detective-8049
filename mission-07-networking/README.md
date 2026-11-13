@@ -89,5 +89,5 @@ Note: Private network information has not been included.
 
 ## 8. Commit Details
 
-To be added after committing and pushing the Mission 7 files.
+Networking concepts and website communication.
 
