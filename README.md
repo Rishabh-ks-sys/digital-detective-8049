@@ -34,3 +34,14 @@ Screenshots and selected outputs will be stored in the evidence folder.
 
 **Project:** The Digital Detective  
 **Assignment:** Diwali Independent Learning Assignment
+
+## My Learning
+
+During the Digital Detective assignment, I learned:
+
+- How to use terminal commands to navigate folders and manage files.
+- How operating systems manage processes, memory, files and devices.
+- How to write and run Python programs.
+- How to convert decimal, binary and hexadecimal numbers.
+- How Git tracks changes and GitHub hosts repositories for collaboration.
+- The importance of documenting work and using version control.
